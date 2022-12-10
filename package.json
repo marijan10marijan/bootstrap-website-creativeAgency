@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
